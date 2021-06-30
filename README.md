@@ -3,7 +3,7 @@
 25 Years Old
 
 ---
-Curently student at CodeCool, specializing in .NET Technologies, but also on the process of learning the depth of React, also worked with the technologies listed in the **toolbox** below.
+Curently student at CodeCool, specializing in .NET Technologies, on the process of learning the depth of React, also worked with the technologies listed in the **toolbox** below.
 
 
 ---
