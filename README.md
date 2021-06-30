@@ -1,4 +1,4 @@
-### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">, My name is Sbirciog Bogdan!
+### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">, My name is Sbirciog Bogdan-Ovidiu.
 ---
 25 Years Old
 
