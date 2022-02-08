@@ -5,7 +5,7 @@
 ---
 Junior Software Developer at Asseco SEE.
 
-Former student at CodeCool, specializing in .NET Technologies, on the process of learning the depth of React, also worked with the technologies listed in the **toolbox** below.
+Former student at CodeCool, specialized in .NET Technologies, on the process of learning the depth of React, also worked with the technologies listed in the **toolbox** below.
 
 
 ---
