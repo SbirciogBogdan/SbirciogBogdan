@@ -1,9 +1,11 @@
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">, My name is Sbirciog Bogdan-Ovidiu.
 ---
-25 Years Old
+26 Years Old
 
 ---
-Curently student at CodeCool, specializing in .NET Technologies, on the process of learning the depth of React, also worked with the technologies listed in the **toolbox** below.
+Junior Software Developer at Asseco SEE.
+
+Former student at CodeCool, specializing in .NET Technologies, on the process of learning the depth of React, also worked with the technologies listed in the **toolbox** below.
 
 
 ---
